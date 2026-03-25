@@ -1,0 +1,19 @@
+{
+  "users": {
+    "User": {
+      "password_hash": "b512d97e7cbf97c273e4db073bbb547aa65a84589227f8f3d9e4a72b9372a24d"
+    },
+    "123": {
+      "password_hash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    "TestUser1": {
+      "password_hash": "8e524eef35a2622ef9b56414d06b0f1e9bdbdd5e8a336d12b81dca014d264cee"
+    },
+    "098": {
+      "password_hash": "35e1d1aeed3f7179b02a0dfde8f4e826e191649ee2acfd6da6b2ce7a12aa0f8b"
+    },
+    "333": {
+      "password_hash": "556d7dc3a115356350f1f9910b1af1ab0e312d4b3e4fc788d2da63668f36d017"
+    }
+  }
+}

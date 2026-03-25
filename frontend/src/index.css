@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, 'Segoe UI', Roboto, sans-serif;
+  --app-bg: #f5f7fb;
+  --card-bg: #ffffff;
+  --card-border: #d8dee9;
+  --text-primary: #1f2937;
+  --text-muted: #5f6b7a;
+  --input-bg: #ffffff;
+  --sidebar-bg: #0f172a;
+  --sidebar-text: #e2e8f0;
+  --sidebar-muted: #93a1b5;
+  --nav-hover: #1e293b;
+  --primary-btn: #2563eb;
+  --primary-btn-hover: #1d4ed8;
+  --danger-btn: #dc2626;
+  --danger-btn-hover: #b91c1c;
+  --success-text: #15803d;
+  --page-gradient: radial-gradient(circle at top right, #eaf1ff 0%, #f5f7fb 52%, #f7f9fc 100%);
+}
+
+body[data-theme='light'] {
+  --app-bg: #f5f7fb;
+  --card-bg: #ffffff;
+  --card-border: #d8dee9;
+  --text-primary: #1f2937;
+  --text-muted: #5f6b7a;
+  --input-bg: #ffffff;
+  --sidebar-bg: #0f172a;
+  --sidebar-text: #e2e8f0;
+  --sidebar-muted: #93a1b5;
+  --nav-hover: #1e293b;
+  --primary-btn: #2563eb;
+  --primary-btn-hover: #1d4ed8;
+  --danger-btn: #dc2626;
+  --danger-btn-hover: #b91c1c;
+  --success-text: #15803d;
+  --page-gradient: radial-gradient(circle at top right, #eaf1ff 0%, #f5f7fb 52%, #f7f9fc 100%);
+}
